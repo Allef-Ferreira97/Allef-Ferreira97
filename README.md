@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Allef-Ferreira97/Allef-Ferreira97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Allef Ferreira, sou um programador Front-End em transição de carreira.
+- Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+-HTML
+<br>
+-CSS
+<br>
+-JavaScript
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
